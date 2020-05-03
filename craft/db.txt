@@ -1,0 +1,14 @@
+Host
+ec2-54-75-231-215.eu-west-1.compute.amazonaws.com
+Database
+d7u6iun0691kra
+User
+pezbptutshewwi
+Port
+5432
+Password
+f91b5f05bbe9065480fcfe7c0217f472fef209ea8abd9a80916446313fb13fe9
+URI
+postgres://pezbptutshewwi:f91b5f05bbe9065480fcfe7c0217f472fef209ea8abd9a80916446313fb13fe9@ec2-54-75-231-215.eu-west-1.compute.amazonaws.com:5432/d7u6iun0691kra
+Heroku CLI
+heroku pg:psql postgresql-fitted-61095 --app fixalot-staging
